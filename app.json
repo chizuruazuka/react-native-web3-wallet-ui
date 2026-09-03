@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Orbit Wallet UI",
+    "slug": "orbit-wallet-ui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android", "web"]
+  }
+}
