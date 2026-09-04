@@ -110,8 +110,8 @@ If this were being expanded into a production-quality wallet design system, my n
 
 ## About me
 
-**John Emmanuel**  
+**Chizuru John Emmanuel**  
 Design Engineer / React Native / Web3  
-Email: **jj9965521@gmail.com**
+Email: **jj9965521@gmail.com or chizuruazuka3@gmail.com**
 
 I’m happy to walk through the implementation, component decisions, interaction trade-offs, and how I would evolve this into a larger production design system during an interview.
